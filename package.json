@@ -1,0 +1,21 @@
+{
+    "name": "coderefresh",
+    "displayName": "CodeRefresh",
+    "description": "Beautiful Resfreshed VS Code Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code Refresh",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code Refresh-color-theme.json"
+            }
+        ]
+    }
+}
