@@ -2,10 +2,17 @@
 
 And we have the stable version, up and running! More docs to be added soon enough!
 
-[Install Code Refresh](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh). It's available in Visual Studio Marketplace!
+### Installation
 
+[Install Code Refresh](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh). It's available in Visual Studio Marketplace! OR
+
+Launch VS Code Quick Open ( Ctrl + P ), paste the following command and press enter.
+
+```sh
+ext install mayeedwin.codereresh
+```
 ### [Beautiful, healthy (eyes) and sparks refresh in writing code](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
 
 ![](https://raw.githubusercontent.com/mayeedwin/code-refresh/master/.coderefresh/coderefreshf.png)
 
-**Enjoy!**
+
