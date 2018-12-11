@@ -1,5 +1,5 @@
 ### [Code Refresh VS Code Theme]()
 
-Still under development !
+And we have the first version, 1.0.0 up and running! 
 
-**Just a little is remaining!**
+**Enjoy!**
