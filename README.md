@@ -11,7 +11,7 @@ And we have the stable version, up and running! More docs to be added soon enoug
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayeedwin/code-refresh/blob/master/.coderefresh/coderefreshe.png" alt="Code Refresh"/>
+  <img src="https://github.com/mayeedwin/code-refresh/blob/master/.coderefresh/coderefreshf.png" alt="Code Refresh"/>
 </p>
 
 **Enjoy!**
