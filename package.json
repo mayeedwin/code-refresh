@@ -2,7 +2,7 @@
     "name": "coderefresh",
     "displayName": "Code Refresh",
     "description": "Beautiful Resfreshed VS Code Color Theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher":"mayeedwin",
     "engines": {
         "vscode": "^1.29.0"
