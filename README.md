@@ -1,5 +1,4 @@
-## Code Refresh VS Code Theme
-### This is the README for your extension "coderefresh"
+### [Code Refresh VS Code Theme]()
 
 Still under development !
 
