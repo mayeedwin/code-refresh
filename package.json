@@ -1,10 +1,20 @@
 {
     "name": "coderefresh",
-    "displayName": "CodeRefresh",
+    "displayName": "Code Refresh",
     "description": "Beautiful Resfreshed VS Code Color Theme",
-    "version": "0.0.1",
+    "version": "0.0.4",
+    "publisher":"mayeedwin",
     "engines": {
         "vscode": "^1.29.0"
+    },
+    "author": {
+        "name": "Maye Edwin" 
+    },
+
+    "icon": ".coderefresh/icons/coderefresh.png",
+    "galleryBanner": {
+        "color": "#275370",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
@@ -17,5 +27,15 @@
                 "path": "./themes/Code Refresh-color-theme.json"
             }
         ]
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/mayeedwin/code-refresh/issues/new/choose",
+        "email": "mayedwine1@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mayeedwin/code-refresh"
+    },
+    "homepage": "https://github.com/mayeedwin/code-refresh/blob/master/README.md"
+
 }
