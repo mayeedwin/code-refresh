@@ -17,20 +17,20 @@ ext install mayeedwin.codereresh
 
 ### Features // All about Code Refresh
 
-    > Beautiful
+   > Beautiful
     
-    > Less Eye Strain
+   > Less Eye Strain
     
-    > Fresh
+   > Fresh
     
-    > Progressive
+   > Progressive
     
-    > Just new
+   > Just new
     
-    > Free
+   > Free
     
-    > Open Source
+   > Open Source
     
-    > PR welcome
+   > PR welcome
 
 **Enjoy!**
