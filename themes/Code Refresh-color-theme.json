@@ -4,9 +4,14 @@
 	"colors": {
 		"editor.background": "#0a192f",
 		"editor.foreground": "#e6f1ff",
+		"editorWidget.background":"#112544",
+		"editorWidget.border":"#112544",
+		"editorHoverWidget.background":"#112544",
 		"editorGroup.dropBackground":"#112544",
 		"editorGroupHeader.tabsBackground":"#0a192f",
 		"editorGroupHeader.noTabsBackground":"#0a192f",
+		"editorSuggestWidget.background":"#112544",
+		"editorSuggestWidget.foreground":"#64ffda",
 		"activityBarBadge.background": "#275370",
 		"sideBarTitle.foreground": "#64ffda",
 		"sideBar.background": "#112544",
@@ -25,8 +30,39 @@
 		"tab.activeBackground":"#112544",
 		"tab.activeForeground":"#64ffda",
 		"tab.inactiveBackground":"#0a192f",
-		"titleBar.activeBackground":"#112544",
-		
+		"titleBar.activeBackground":"#1b3966",
+		"notificationCenterHeader.foreground":"#64ffda",
+		"notificationCenterHeader.background":"#1b3966",
+		"notifications.foreground":"#e6f1ff",
+		"notifications.background":"#275370",
+		"extensionButton.prominentForeground":"#64ffda",
+		"extensionButton.prominentBackground":"#275370",
+		"gitDecoration.addedResourceForeground":"#64ffda",
+		"gitDecoration.modifiedResourceForeground":"#467b9e",
+		"gitDecoration.deletedResourceForeground":"#e6f1ff",
+		"settings.headerForeground":"#e6f1ff",
+		"settings.modifiedItemIndicator":"#64ffda",
+		"settings.dropdownBackground":"#112544",
+		"settings.dropdownForeground":"#e6f1ff",
+		"settings.textInputBackground":"#112544",
+		"settings.numberInputBackground":"#112544",
+		"settings.numberInputForeground":"#64ffda",
+		"settings.dropdownListBorder":"#1b3966",
+		"settings.dropdownBorder":"#1b3966",
+		"settings.checkboxBorder":"#e6f1ff",
+		"breadcrumb.foreground":"#64ffda",
+		"breadcrumb.background":"#112544",
+		"breadcrumb.activeSelectionForeground":"#e6f1ff",
+		"badge.foreground":"#e6f1ff",
+		"badge.background":"#0a192f",
+		"input.background":"#0a192f",
+		"input.foreground":"#e6f1ff",
+		"input.placeholderForeground":"#64ffda",
+		"menubar.selectionBackground":"#1b3966",
+		"descriptionForeground":"#e6f1ff",
+		"peekViewEditor.background":"#112544",
+		"debugToolBar.background":"#1b3966",
+
 
 	},
 	"tokenColors": [
@@ -43,7 +79,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546e7a"
+				"foreground": "#799aaa"
 			}
 		},
 		{
@@ -203,7 +239,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#b2ccd6"
+				"foreground": "#d0e9f3"
 			}
 		},
 		{
