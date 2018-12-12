@@ -15,4 +15,15 @@ ext install mayeedwin.codereresh
 
 ![](https://raw.githubusercontent.com/mayeedwin/code-refresh/master/.coderefresh/coderefreshf.png)
 
+### Features // All about Code Refresh
+
+    > Beautiful
+    > Less Eye Strain
+    > Fresh
+    > Progressive
+    > Just new
+    > Free
+    > Open Source
+    > PR welcome
+
 **Enjoy!**
