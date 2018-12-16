@@ -4,62 +4,62 @@
 	"colors": {
 		"editor.background": "#0a192f",
 		"editor.foreground": "#e6f1ff",
-		"editorWidget.background":"#112544",
-		"editorWidget.border":"#112544",
-		"editorHoverWidget.background":"#112544",
-		"editorGroup.dropBackground":"#112544",
+		"editorWidget.background":"#101f35",
+		"editorWidget.border":"#101f35",
+		"editorHoverWidget.background":"#101f35",
+		"editorGroup.dropBackground":"#101f35",
 		"editorGroupHeader.tabsBackground":"#0a192f",
 		"editorGroupHeader.noTabsBackground":"#0a192f",
-		"editorSuggestWidget.background":"#112544",
+		"editorSuggestWidget.background":"#101f35",
 		"editorSuggestWidget.foreground":"#64ffda",
-		"activityBarBadge.background": "#275370",
+		"activityBarBadge.background": "#101f35",
 		"sideBarTitle.foreground": "#64ffda",
-		"sideBar.background": "#112544",
+		"sideBar.background": "#101f35",
 		"sideBarSectionHeader.background": "#0a192f",
 		"sideBarSectionHeader.border":"#0a192f",
 		"editorGroup.border": "#707070",
 		"dropdown.background":"#0a192f",
 		"dropdown.foreground":"#e6f1ff",
 		"list.hoverBackground":"#0a192f",
-		"list.focusBackground":"#112544",
+		"list.focusBackground":"#101f35",
 		"list.focusForeground":"#e6f1ff",
 		"list.inactiveSelectionForeground":"#64ffda",
 		"list.inactiveSelectionBackground":"#0a192f",
 		"activityBar.background":"#0a192f",
-		"tab.activeBackground":"#112544",
+		"tab.activeBackground":"#101f35",
 		"tab.activeForeground":"#64ffda",
 		"tab.inactiveBackground":"#0a192f",
-		"titleBar.activeBackground":"#1b3966",
-		"notificationCenterHeader.foreground":"#64ffda",
-		"notificationCenterHeader.background":"#1b3966",
-		"notifications.foreground":"#e6f1ff",
-		"notifications.background":"#275370",
-		"extensionButton.prominentBackground":"#275370",
+		"titleBar.activeBackground":"#051b3d",
+		"notificationCenterHeader.foreground":"#e6f1ff",
+		"notificationCenterHeader.background":"#051b3d",
+		"notifications.foreground":"#ced2d6",
+		"notifications.background":"#101f35",
+		"extensionButton.prominentBackground":"#101f35",
 		"gitDecoration.addedResourceForeground":"#64ffda",
 		"gitDecoration.modifiedResourceForeground":"#467b9e",
 		"gitDecoration.deletedResourceForeground":"#e6f1ff",
 		"settings.headerForeground":"#e6f1ff",
 		"settings.modifiedItemIndicator":"#64ffda",
-		"settings.dropdownBackground":"#112544",
+		"settings.dropdownBackground":"#101f35",
 		"settings.dropdownForeground":"#e6f1ff",
-		"settings.textInputBackground":"#112544",
-		"settings.numberInputBackground":"#112544",
+		"settings.textInputBackground":"#101f35",
+		"settings.numberInputBackground":"#101f35",
 		"settings.numberInputForeground":"#64ffda",
-		"settings.dropdownListBorder":"#1b3966",
-		"settings.dropdownBorder":"#1b3966",
+		"settings.dropdownListBorder":"#051b3d",
+		"settings.dropdownBorder":"#051b3d",
 		"settings.checkboxBorder":"#e6f1ff",
 		"breadcrumb.foreground":"#64ffda",
-		"breadcrumb.background":"#112544",
+		"breadcrumb.background":"#101f35",
 		"breadcrumb.activeSelectionForeground":"#e6f1ff",
 		"badge.foreground":"#e6f1ff",
 		"badge.background":"#0a192f",
 		"input.background":"#0a192f",
 		"input.foreground":"#e6f1ff",
 		"input.placeholderForeground":"#64ffda",
-		"menubar.selectionBackground":"#1b3966",
+		"menubar.selectionBackground":"#051b3d",
 		"descriptionForeground":"#e6f1ff",
-		"peekViewEditor.background":"#112544",
-		"debugToolBar.background":"#1b3966",
+		"peekViewEditor.background":"#101f35",
+		"debugToolBar.background":"#051b3d",
 
 
 	},
@@ -282,7 +282,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#275370"
+				"foreground": "#101f35"
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#275370"
+				"foreground": "#101f35"
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#275370"
+				"foreground": "#101f35"
 			}
 		},
 		{
@@ -462,7 +462,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#275370"
+				"foreground": "#101f35"
 			}
 		},
 		{
@@ -619,7 +619,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#275370"
+				"foreground": "#101f35"
 			}
 		},
 		{

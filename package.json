@@ -2,7 +2,7 @@
     "name": "coderefresh",
     "displayName": "Code Refresh",
     "description": "Beautiful Refreshed VS Code Color Theme",
-    "version": "0.1.1",
+    "version": "0.1.11",
     "publisher":"mayeedwin",
     "engines": {
         "vscode": "^1.29.0"
@@ -11,7 +11,7 @@
         "name": "Maye Edwin" 
     },
 
-    "icon": ".coderefresh/icons/coderefresh.png",
+    "icon": ".coderefresh/icons/coderefreshicon.gif",
     "galleryBanner": {
         "color": "#275370",
         "theme": "dark"
