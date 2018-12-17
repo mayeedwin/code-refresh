@@ -282,7 +282,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#101f35"
+				"foreground": "#854b25"
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#101f35"
+				"foreground": "#e4b27a"
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#101f35"
+				"foreground": "#f7cb3b"
 			}
 		},
 		{
@@ -462,7 +462,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#101f35"
+				"foreground": "#6088a3"
 			}
 		},
 		{
@@ -576,6 +576,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Markup - Underline",
 			"scope": [
@@ -601,7 +602,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#7a8892"
 			}
 		},
 		{
@@ -619,7 +620,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#101f35"
+				"foreground": "#2ad309"
 			}
 		},
 		{
