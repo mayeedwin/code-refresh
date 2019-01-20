@@ -1,4 +1,4 @@
-# Welcome to your VS Code Extension
+# Welcome to your Code Refresh
 
 ## What's in the folder
 * This folder contains all of the files necessary for your color theme extension.
