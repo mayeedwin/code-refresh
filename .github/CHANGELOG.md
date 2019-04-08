@@ -3,9 +3,10 @@
 
 All notable changes to the "vscode-pwa" extension will be documented here.
 
-## v.0.1.2
+## v0.1.14
 
     - little typo fix, code cleanup
+    - stable release
 
 ## v0.0.1
 
