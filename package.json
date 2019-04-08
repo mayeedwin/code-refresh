@@ -2,7 +2,7 @@
     "name": "coderefresh",
     "displayName": "Code Refresh",
     "description": "Beautiful Refreshed Dark VS Code Color Theme",
-    "version": "0.1.14",
+    "version": "0.1.15",
     "publisher":"mayeedwin",
     "engines": {
         "vscode": "^1.29.0"
@@ -10,23 +10,20 @@
     "author": {
         "name": "Maye Edwin" 
     },
-
     "icon": ".coderefresh/icons/coderefresh.png",
     "galleryBanner": {
-        "color": "#699895",
+        "color": "#275370",
         "theme": "dark"
     },
-
-    "categories": [
-        "Themes"
-    ],
-
     "keywords": [
         "code refresh",
         "dark theme",
         "maye edwin",
 		"pwafire"
 	],
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
