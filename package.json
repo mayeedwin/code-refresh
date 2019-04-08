@@ -1,8 +1,8 @@
 {
     "name": "coderefresh",
     "displayName": "Code Refresh",
-    "description": "Beautiful Refreshed VS Code Color Theme",
-    "version": "0.1.13",
+    "description": "Beautiful Refreshed Dark VS Code Color Theme",
+    "version": "0.1.14",
     "publisher":"mayeedwin",
     "engines": {
         "vscode": "^1.29.0"
@@ -11,14 +11,22 @@
         "name": "Maye Edwin" 
     },
 
-    "icon": ".coderefresh/icons/coderefreshicon.gif",
+    "icon": ".coderefresh/icons/coderefresh.png",
     "galleryBanner": {
-        "color": "#275370",
+        "color": "#699895",
         "theme": "dark"
     },
+
     "categories": [
         "Themes"
     ],
+
+    "keywords": [
+        "code refresh",
+        "dark theme",
+        "maye edwin",
+		"pwafire"
+	],
     "contributes": {
         "themes": [
             {
