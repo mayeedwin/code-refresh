@@ -13,24 +13,14 @@ ext install mayeedwin.codereresh
 ```
 ### [Beautiful, healthy (eyes) and sparks refresh in writing code](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
 
-![Code Refresh](https://raw.githubusercontent.com/mayeedwin/code-refresh/master/.coderefresh/newcoderefresh.png)
+![Code Refresh](https://raw.githubusercontent.com/mayeedwin/code-refresh/master/.coderefresh/coderefreshtheme.gif)
 
 ### Features // All about Code Refresh
 
-- Beautiful
+- Beautiful, Less Eye Strain
     
-- Less Eye Strain
+- Fresh, Progressive, Just new
     
-- Fresh
-    
-- Progressive
-    
-- Just new
-    
-- Free
-    
-- Open Source
-    
-- PR welcome
+- Free, Open Source, PR welcome
 
 **Enjoy!**
