@@ -13,7 +13,7 @@ ext install mayeedwin.codereresh
 ```
 ### [Beautiful, healthy (eyes) and sparks refresh in writing code](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
 
-![Code Refresh](https://raw.githubusercontent.com/mayeedwin/code-refresh/master/.coderefresh/coderefreshtheme.gif)
+![Code Refresh](https://github.com/mayeedwin/code-refresh/blob/master/.coderefresh/coderefreshtheme.gif)
 
 ### Features // All about Code Refresh
 
