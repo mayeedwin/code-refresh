@@ -27,4 +27,4 @@ ext install mayeedwin.codereresh
 
 Load [preview in your browser here](.coderefresh/coderefreshtheme.gif)
 
-**Enjoy 😊 🐥** and thanks for checking it out. Let's connect on twitter [@mayeedwin](https://twitter.com/mayeedwin) : )
+**Enjoy 😊 🐥** and thanks for checking it out. Let's connect on twitter [@mayeedwin1](https://twitter.com/mayeedwin) : )
