@@ -65,11 +65,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#eeffffff"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -87,7 +82,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#2ff883"
 			}
 		},
 		{
@@ -180,7 +175,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f0e161"
 			}
 		},
 		{
@@ -620,7 +615,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#2ad309"
+				"foreground": "#9bbdd8"
 			}
 		},
 		{
@@ -638,7 +633,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#64ffda"
 			}
 		},
 		{

@@ -1,8 +1,8 @@
-### [Code Refresh VS Code Theme](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
+# [Code Refresh VS Code Theme](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
 
 And we have the stable version, up and running! Check out the [Change Log on VS Code](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh) for any issues resolved or updates added.
 
-### Installation
+## Installation
 
 [Install Code Refresh](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh). It's available in Visual Studio Marketplace! OR
 
@@ -11,19 +11,18 @@ Launch VS Code Quick Open ( Ctrl + P ), paste the following command and press en
 ```sh
 ext install mayeedwin.codereresh
 ```
-### [Beautiful and sparks refresh in writing code](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
+
+## [Beautiful and sparks refresh in writing code](https://marketplace.visualstudio.com/items?itemName=mayeedwin.coderefresh)
 
 ![Code Refresh](.coderefresh/coderefreshtheme.gif)
 
-### Features // All about Code Refresh
+## Features // All about Code Refresh
 
 - Beautiful, Less Eye Strain
-    
 - Fresh, Progressive, Just new
-    
 - Free, Open Source, PR welcome
 
-### Demo with Code Refresh in play
+## Demo with Code Refresh in play
 
 Load [preview in your browser here](.coderefresh/coderefreshtheme.gif)
 
